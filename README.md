@@ -1,2 +1,2 @@
 # Java
-This is my first java repository
+This is my first java repository.
